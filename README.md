@@ -1,2 +1,4 @@
-# dakhohen
-jc-yahvwe
+xbmc-html-template
+==================
+
+Standard HTML template for XBMC Website
